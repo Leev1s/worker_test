@@ -3,6 +3,6 @@ addEventListener('fetch', event => {
   })
   
   async function handleRequest(request) {
-	return new Response('Hello, World!', { status: 200 })
+	return new Response('觉得很好玩是吗？幼稚鬼', { status: 200 })
   }
   
