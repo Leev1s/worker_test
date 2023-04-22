@@ -1,3 +1,7 @@
 name = "worker"
 main = "src/index.js"
 compatibility_date = "2023-04-22"
+
+kv_namespaces = [
+  { binding = "DB", id = "3537acf6eb0144f89440e2c0d40d2ac8", preview_id = "b793a549f5fb4704a684bfc129d30878"}
+]
